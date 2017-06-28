@@ -1,3 +1,8 @@
+---
+title: Learn Kotlin in Y Minutes
+date: 2017-06-28 10:40:44
+tags:
+---
 # **Learn X in Y minutes** #
 
 	Where X=kotlin 
